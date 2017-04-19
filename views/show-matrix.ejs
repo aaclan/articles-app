@@ -1,0 +1,20 @@
+<table>
+  <tr>
+    <td></td>
+    <%
+      var height = values.length;
+      var width = values.length > 0 ? values[0].length : 0;
+    %>
+    <% for (var i = 0; i < width; i++) { %>
+      <td><%= rowHeader[i] %> </td>
+    <% } %>
+  </tr> 
+  <% for (var i = 0; i < height; i++) { %>
+    <tr>
+       <td><%= columnHeader[i]%></td>
+      <% for (var j = 0; j < width; j++) { %>
+        <td><%=  values[i][j] %></td>
+      <% } %>
+    </tr> 
+   <% } %>
+</table>

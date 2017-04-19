@@ -1,0 +1,58 @@
+[
+	{
+		"title": "Title 1",
+		"authors": [{
+				"lastname": "Abraham",
+				"forename": "Alice",
+				"initials": "A"
+			},
+			{
+				"lastname": "Byron",
+				"forename": "Bill",
+				"initials": "B"
+			}
+		]
+	},
+	{
+		"title": "Title 2",
+		"authors": [{
+				"lastname": "Byron",
+				"forename": "Bill",
+				"initials": "B"
+			},
+			{
+				"lastname": "Chang",
+				"forename": "Christie",
+				"initials": "C"
+			}
+		]
+	},
+	{
+		"title": "Title 3",
+		"authors": [{
+				"lastname": "Chang",
+				"forename": "Christie",
+				"initials": "C"
+			},
+			{
+				"lastname": "Abraham",
+				"forename": "Alice",
+				"initials": "A"
+			}
+		]
+	},
+	{
+		"title": "Title 4",
+		"authors": [{
+				"lastname": "Doel",
+				"forename": "David",
+				"initials": "J"
+			},
+			{
+				"lastname": "Byron",
+				"forename": "Bill",
+				"initials": "B"
+			}
+		]
+	}
+]
