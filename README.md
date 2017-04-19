@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Articles App
 
 This app provides the following API's to get the articles info stored in the database.
@@ -29,6 +28,3 @@ Run `npm run dev` for a dev server. The app will automatically reload if you cha
 ## Database
 
 Run `./setup/import.sh ./data/articles.json` to create and initialize the mongodb collection for the project.
-=======
-# apps
->>>>>>> 8c4e28bf04a71485ee9bd3e7f9564dd5c8ccab23
